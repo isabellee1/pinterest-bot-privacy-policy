@@ -1,0 +1,40 @@
+# Privacy Policy
+
+**Effective date:** August 3, 2026
+
+This privacy policy covers the personal automation tool ("the App") used to
+post pins to Pinterest on behalf of its single owner/operator.
+
+## What this App does
+
+The App is a personal-use script that connects to the Pinterest API to
+create pins on the operator's own Pinterest account, linking to Amazon
+products via the operator's Amazon Associates affiliate links.
+
+## Data the App accesses
+
+The App uses Pinterest's OAuth API to obtain an access token scoped to the
+operator's own Pinterest account. It uses this token only to:
+
+- Read the operator's own board list
+- Create pins on the operator's own boards
+
+The App does not access, collect, or store data belonging to any other
+Pinterest user. It does not collect personal data from visitors, customers,
+or any third party.
+
+## Data storage
+
+Access and refresh tokens are stored locally in an environment file on the
+operator's own machine and are never transmitted to any party other than
+Pinterest's API.
+
+## Third parties
+
+The App sends pin content (image, title, description, and an Amazon
+affiliate link) to Pinterest's API for the sole purpose of publishing pins.
+No data is shared with any other third party.
+
+## Contact
+
+Questions about this policy can be directed to: bviex439@gmail.com
